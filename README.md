@@ -1,2 +1,2 @@
 # benjimanclarke.tech
-Ruby Sinatra homepage for my various works
+Landing page for project websites and github links
