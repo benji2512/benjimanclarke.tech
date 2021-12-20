@@ -1,4 +1,3 @@
-# benjimanclarke.tech  
 What is this inventively named site? Well.....  
 - It is a single place where I can show off my work in some detail with personal commentary on each project
 - It is a place where I can mess around and play woth HTML/CSS/Bootsrap and other static webpage tools
